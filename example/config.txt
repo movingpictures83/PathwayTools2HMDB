@@ -1,0 +1,2 @@
+Prefix plugins/PathwayTools2HMDB/example
+Plugin PathwayTools2HMDB inputfile parameters.txt outputfile keymappings.txt
