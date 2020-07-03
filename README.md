@@ -3,7 +3,7 @@
 # Input: TXT
 # Output: TXT
 # Tested with: PluMA 1.1, Python 3.6
-# Dependency: Pathway Tools Database
+# Dependency: Pathway Tools Database, PythonCyc 1.0
 
 Map Pathway Tools (Karp et al, 2015) metabolite identifiers to HMDB identifiers.
 
